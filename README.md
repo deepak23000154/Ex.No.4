@@ -1,6 +1,6 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### NAME: DEEPAK R                                                                         
+### REGISTER NUMBER : 212223040031
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
 ### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
@@ -48,3 +48,64 @@ Prompt Size Limitations:
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
+# 1. Comparative Analysis Prompt
+
+# Definition:
+Asking for comparison between two or more concepts highlighting similarities and differences.
+# Prompt:
+Compare and contrast online learning and traditional classroom learning.
+<img width="840" height="402" alt="image" src="https://github.com/user-attachments/assets/c92927ee-64b4-44f9-8d97-9e8f68a898b9" />
+
+# 2. Experiential Perspective Prompt
+
+# Definition:
+Requests responses from a specific role or viewpoint.
+
+# Prompt:
+As a college student, describe your experience attending online classes.
+# Output:
+As a college student, online classes give me flexibility to attend lectures from home. I can rewatch recorded sessions and manage my schedule better. However, sometimes I miss direct interaction with teachers and classmates.
+
+# 3. Everyday Functioning Prompts
+
+# Definition:
+Explains how a system or concept works in daily life.
+
+# Prompt:
+Describe how online learning platforms are used in everyday life.
+
+# Output:
+Online learning platforms are used daily by students to attend live classes, watch recorded lectures, submit assignments, take quizzes, and communicate with instructors through discussion forums or chat systems.
+
+# 4. Universal Prompt Structures (Prompt Refinements)
+
+# Definition:
+Uses structured templates to explain concepts clearly.
+
+# Prompt:
+Explain online learning in simple terms with an example.
+
+# Output:
+Online learning is a way of studying using the internet instead of going to a classroom. For example, a student logs into a learning platform, attends a virtual class, and submits homework online.
+
+# 5. Prompt Size Limitations
+
+# Definition:
+Managing large prompts by dividing them into smaller tasks.
+
+Large Prompt: Explain all advantages and disadvantages of online learning in detail.
+
+Refined Prompt: Explain five advantages of online learning first, then five disadvantages separately.
+
+Large Prompt: List 100 online learning platforms.
+
+Refined Prompt: List 10 popular online learning platforms.
+
+<img width="777" height="361" alt="image" src="https://github.com/user-attachments/assets/9395dc7b-87d4-45b0-a372-0e3ebe7d8094" />
+
+# Conclusion
+
+Different prompt engineering techniques such as comparative analysis, experiential perspective, everyday functioning prompts, universal prompt structures, and prompt size limitations were successfully applied to the topic of online learning. Each technique helps generate structured, meaningful, and well-organized responses for better understanding.
+
+
+
